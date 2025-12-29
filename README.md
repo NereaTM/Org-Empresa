@@ -12,6 +12,7 @@ Este proyecto es una aplicación web para la gestión de empleados y departament
 - **Backend** (asumido):
   - Node.js con Express para gestionar las rutas.
   - Base de datos para almacenar empleados, departamentos y usuarios.
+  - JWT
 
 ## Estructura de Archivos
 
